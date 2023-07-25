@@ -15,4 +15,4 @@ You may also see any lint errors in the console.
 
 <h1>Give star⭐⭐⭐</h1>
 
-## Nitish Singh
+## Nitish Singh 🙏
